@@ -1,3 +1,3 @@
-# zilonhub_integration
+# CMD Auto Reload Plugni
 
-Plugin to integrate MembersOne in your Wordpress store.
+Plugin to Auto reload page in your Wordpress store.
