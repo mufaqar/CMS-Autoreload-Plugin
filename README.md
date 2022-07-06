@@ -1,3 +1,3 @@
-# CMD Auto Reload Plugni
+# CMD Auto Reload Plugin
 
 Custom Plugin to Auto reload page in your Wordpress store.
